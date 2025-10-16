@@ -1,4 +1,3 @@
-import requests
 from fastapi import APIRouter
 from services.paisService import advancedSearch
 from services.models import CountryFilter
